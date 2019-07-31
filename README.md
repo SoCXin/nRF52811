@@ -1,10 +1,10 @@
 ﻿# [nRF52811](https://github.com/sochub/nRF52811) 
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-#### 归属：[cortex M4](https://github.com/sochub/CM4) 
-#### 父级：[nordic](https://github.com/sochub/NRF52) 
+#### 厂商：[Nordic](https://github.com/sochub/Nordic) 
+#### 父级：[nRF52](https://github.com/sochub/nRF52) 
+#### 归属：[Cortex M4](https://github.com/sochub/CM4) 
 
-### [简介](https://github.com/sochub/nRF52811/wiki)
+### [nRF52811简介](https://github.com/sochub/nRF52811/wiki)
 
 Bluetooth 5.1 Direction Finding SoC with comprehensive protocol support. the 4th addition to the nRF52 Series platform.
 
@@ -18,11 +18,17 @@ Bluetooth 5.1 Direction Finding SoC with comprehensive protocol support. the 4th
 * 6x6 mm QFN48 with 32 GPIOs
 * 5x5 mm QFN32 with 17 GPIOs
 * 2.48x2.46 mm WLCSP32 with 15 GPIOs
-* Bluetooth LE - Long Range: 	-104 dBm
-* Bluetooth LE - 1 Mbps:		-97 dBm
+* Bluetooth LE - Long Range:  -104 dBm
+* Bluetooth LE - 1 Mbps:	 -97 dBm
 * 802.15.4 (Thread/Zigbee):	-101 dBm
 
 
-##  [SoC开发平台](http://www.qitas.cn)  
+### [关联资源](https://github.com/sochub)
 
+* [编译工具](https://github.com/sochub/arm-none-eabi)
 
+### [替换方案](https://github.com/sochub)
+
+* [nRF52832](https://github.com/sochub/nRF52832) 
+
+##  [SoC资源平台](http://www.qitas.cn)
