@@ -28,9 +28,9 @@
 
 ### [关联资源](https://github.com/SoCXin)
 
-* [开发工具](http://www.keil.com/dd/chip/4727.htm)
+* [nRF-IEEE-802.15.4-radio-driver](https://github.com/NordicSemiconductor/nRF-IEEE-802.15.4-radio-driver)
 
-### [替换方案](https://github.com/SoCXin)
+### [选型建议](https://github.com/SoCXin)
 
 [nRF52811](https://github.com/SoCXin/nRF52811) 支持BLE 5.2
 
